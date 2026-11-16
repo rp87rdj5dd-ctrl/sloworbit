@@ -1,0 +1,53 @@
+{
+  "help": "Help with Slow Orbit",
+  "contact": "Contact",
+  "reply": "We usually reply within 2 business days. Please include your iPhone model, iOS version and – if shown – the error code (e.g. E_CAMERA_PERMISSION).",
+  "faq": "Frequently asked questions",
+  "requirements": "Requirements",
+  "privacy": "Privacy Policy",
+  "legal": "Legal notice",
+  "language": "Language",
+  "qa": [
+    [
+      "How does Slow Orbit work?",
+      "You create time accounts, e.g. 15 minutes for social media or 60 minutes for games. When an account’s time is used up, iOS pauses only its apps. You earn new time by scanning one of your pictures or doing push-ups."
+    ],
+    [
+      "Why does Slow Orbit ask for “Screen Time”?",
+      "Slow Orbit uses Apple’s Screen Time to lock apps – that’s the only reliable way. Slow Orbit can’t see which apps you select or how long you use them; that stays with Apple on your iPhone."
+    ],
+    [
+      "My apps aren’t being locked.",
+      "Check that focus is turned on on the home screen and the time account contains apps. Time counts from switching on or the last renewal – earlier use on the same day doesn’t count. Open Slow Orbit once so monitoring can restart if needed. If that doesn’t help, turn focus off and on again."
+    ],
+    [
+      "My push-ups aren’t counted.",
+      "Stand your iPhone upright on the floor in front of you. Shoulders, elbows and hands should be in view – not your whole body. A half push-up is enough. If it still doesn’t count: Settings → Push-up test → ⚙︎ Settings → ? Help, then adjust “Lower shoulders min.”."
+    ],
+    [
+      "My picture isn’t recognized.",
+      "Scan the picture in good light, as straight and frame-filling as possible. Glossy surfaces and strong reflections make recognition harder. You can retake a picture or add another one at any time."
+    ],
+    [
+      "I forgot my password.",
+      "The password protects your time accounts while focus is running. For security reasons it can’t be recovered. The only way out is to delete and reinstall the app – this removes all locks."
+    ],
+    [
+      "How do I turn Slow Orbit off completely?",
+      "Turn focus off on the home screen. Alternatively: iPhone Settings → Screen Time → Apps with Screen Time access → turn off Slow Orbit, or delete the app."
+    ],
+    [
+      "Are my photos or camera images uploaded?",
+      "No. Pictures and the camera image are processed only on your iPhone. There is no account, no cloud, no tracking and no ads."
+    ],
+    [
+      "How do I get updates?",
+      "Slow Orbit loads smaller improvements automatically at launch. You can also check under Settings → App update. Larger updates come via the App Store."
+    ]
+  ],
+  "req": [
+    "iPhone with iOS 17.4 or later",
+    "Screen Time must be available (not restricted by Family Sharing)",
+    "For pictures and push-ups: camera access"
+  ]
+}

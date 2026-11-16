@@ -1,0 +1,53 @@
+{
+  "help": "Assistenza per Slow Orbit",
+  "contact": "Contatto",
+  "reply": "Di norma rispondiamo entro 2 giorni lavorativi. Indica modello di iPhone, versione iOS e, se presente, codice di errore (ad es. E_CAMERA_PERMISSION).",
+  "faq": "Domande frequenti",
+  "requirements": "Requisiti",
+  "privacy": "Informativa sulla privacy",
+  "legal": "Note legali",
+  "language": "Lingua",
+  "qa": [
+    [
+      "Come funziona Slow Orbit?",
+      "Crea contatori di tempo, ad esempio 15 minuti per i social o 60 per i giochi. Quando un contatore si esaurisce, iOS mette in pausa solo le app associate. Recuperi tempo scansionando una tua immagine o facendo flessioni."
+    ],
+    [
+      "Perché Slow Orbit chiede «Tempo di utilizzo»?",
+      "Slow Orbit usa Tempo di utilizzo di Apple per bloccare le app in modo affidabile. Non vede quali app scegli né quanto le utilizzi: quei dati restano gestiti da Apple sul tuo iPhone."
+    ],
+    [
+      "Le mie app non vengono bloccate.",
+      "Verifica che la modalità focus sia attiva nella schermata iniziale e che il contatore contenga app. Il conteggio parte dall’attivazione o dall’ultimo rinnovo; l’utilizzo precedente della giornata non conta. Apri Slow Orbit per riavviare il monitoraggio, se necessario. Altrimenti disattiva e riattiva il focus."
+    ],
+    [
+      "Le flessioni non vengono contate.",
+      "Metti l’iPhone in verticale sul pavimento davanti a te. Devono vedersi spalle, gomiti e mani, non necessariamente tutto il corpo. Basta mezza flessione. Se non funziona: Impostazioni → Test flessioni → ⚙︎ Impostazioni → ? Aiuto e regola la soglia minima di abbassamento delle spalle."
+    ],
+    [
+      "La mia immagine non viene riconosciuta.",
+      "Scansionala con buona luce, frontalmente e riempiendo l’inquadratura. Superfici lucide e riflessi rendono più difficile il riconoscimento. Puoi acquisire di nuovo l’immagine o aggiungerne un’altra."
+    ],
+    [
+      "Ho dimenticato la password.",
+      "La password protegge i contatori durante il focus. Per sicurezza non può essere recuperata. Devi eliminare e reinstallare l’app: questo rimuove tutti i blocchi."
+    ],
+    [
+      "Come disattivo completamente Slow Orbit?",
+      "Disattiva il focus dalla schermata iniziale. In alternativa: Impostazioni iPhone → Tempo di utilizzo → App con accesso a Tempo di utilizzo → disattiva Slow Orbit, oppure elimina l’app."
+    ],
+    [
+      "Le foto o le immagini della fotocamera vengono caricate?",
+      "No. Sono elaborate esclusivamente sul tuo iPhone. Nessun account, cloud, tracciamento o pubblicità."
+    ],
+    [
+      "Come ricevo gli aggiornamenti?",
+      "Le piccole migliorie vengono caricate automaticamente all’avvio. Puoi controllare in Impostazioni → Aggiornamento app. Gli aggiornamenti principali arrivano dall’App Store."
+    ]
+  ],
+  "req": [
+    "iPhone con iOS 17.4 o successivo",
+    "Tempo di utilizzo disponibile (senza restrizioni di In famiglia)",
+    "Accesso alla fotocamera per immagini e flessioni"
+  ]
+}

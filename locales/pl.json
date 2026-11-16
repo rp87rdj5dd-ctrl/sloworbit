@@ -1,0 +1,53 @@
+{
+  "help": "Pomoc Slow Orbit",
+  "contact": "Kontakt",
+  "reply": "Zwykle odpowiadamy w ciągu 2 dni roboczych. Podaj model iPhone’a, wersję iOS i ewentualny kod błędu (np. E_CAMERA_PERMISSION).",
+  "faq": "Często zadawane pytania",
+  "requirements": "Wymagania",
+  "privacy": "Polityka prywatności",
+  "legal": "Informacje prawne",
+  "language": "Język",
+  "qa": [
+    [
+      "Jak działa Slow Orbit?",
+      "Tworzysz pule czasu, np. 15 minut na media społecznościowe lub 60 na gry. Po wykorzystaniu puli iOS wstrzymuje tylko przypisane aplikacje. Dodatkowy czas zyskujesz, skanując obraz lub wykonując pompki."
+    ],
+    [
+      "Dlaczego Slow Orbit prosi o dostęp do funkcji Czas przed ekranem?",
+      "Slow Orbit wykorzystuje funkcję Czas przed ekranem firmy Apple do niezawodnego blokowania aplikacji. Nie widzi, które aplikacje wybierasz ani jak długo ich używasz. Apple zarządza tymi danymi na Twoim iPhonie."
+    ],
+    [
+      "Moje aplikacje nie są blokowane.",
+      "Sprawdź, czy fokus jest włączony na ekranie głównym i czy pula zawiera aplikacje. Czas liczy się od włączenia lub ostatniego odnowienia; wcześniejsze użycie tego samego dnia się nie liczy. Otwórz Slow Orbit, aby w razie potrzeby wznowić monitorowanie. Jeśli to nie pomoże, wyłącz i ponownie włącz fokus."
+    ],
+    [
+      "Pompki nie są liczone.",
+      "Ustaw iPhone’a pionowo na podłodze przed sobą. W kadrze powinny być barki, łokcie i dłonie, ale nie musi być całe ciało. Wystarczy połowa pompki. Jeśli nadal nie działa, przejdź do Ustawienia → Test pompek → ⚙︎ Ustawienia → ? Pomoc i dostosuj minimalne obniżenie barków."
+    ],
+    [
+      "Mój obraz nie jest rozpoznawany.",
+      "Skanuj przy dobrym świetle, na wprost, wypełniając kadr. Błyszczące powierzchnie i odbicia utrudniają rozpoznawanie. Możesz ponownie zrobić zdjęcie lub dodać inne."
+    ],
+    [
+      "Nie pamiętam hasła.",
+      "Hasło chroni pule podczas sesji fokusu. Ze względów bezpieczeństwa nie można go odzyskać. Trzeba usunąć i ponownie zainstalować aplikację; to usuwa wszystkie blokady."
+    ],
+    [
+      "Jak całkowicie wyłączyć Slow Orbit?",
+      "Wyłącz fokus na ekranie głównym. Możesz też przejść do Ustawienia iPhone’a → Czas przed ekranem → Aplikacje z dostępem do Czasu przed ekranem i wyłączyć Slow Orbit lub usunąć aplikację."
+    ],
+    [
+      "Czy moje zdjęcia lub obraz z aparatu są przesyłane?",
+      "Nie. Są przetwarzane tylko na iPhonie. Bez konta, chmury, śledzenia i reklam."
+    ],
+    [
+      "Jak otrzymywać aktualizacje?",
+      "Drobne poprawki ładują się automatycznie po uruchomieniu. Sprawdź też Ustawienia → Aktualizacja aplikacji. Większe aktualizacje pojawiają się w App Store."
+    ]
+  ],
+  "req": [
+    "iPhone z iOS 17.4 lub nowszym",
+    "Dostępna funkcja Czas przed ekranem (bez ograniczeń rodzinnych)",
+    "Dostęp do aparatu dla obrazów i pompek"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "help": "Aide pour Slow Orbit",
+  "contact": "Contact",
+  "reply": "Nous répondons généralement sous 2 jours ouvrés. Indiquez votre modèle d’iPhone, la version d’iOS et, le cas échéant, le code d’erreur (par ex. E_CAMERA_PERMISSION).",
+  "faq": "Questions fréquentes",
+  "requirements": "Configuration requise",
+  "privacy": "Politique de confidentialité",
+  "legal": "Mentions légales",
+  "language": "Langue",
+  "qa": [
+    [
+      "Comment fonctionne Slow Orbit ?",
+      "Créez des budgets de temps, par exemple 15 minutes pour les réseaux sociaux ou 60 minutes pour les jeux. Lorsqu’un budget est épuisé, iOS ne met en pause que les apps associées. Pour récupérer du temps, scannez l’une de vos images ou faites des pompes."
+    ],
+    [
+      "Pourquoi Slow Orbit demande-t-il l’accès à « Temps d’écran » ?",
+      "Slow Orbit utilise Temps d’écran d’Apple pour bloquer les apps de manière fiable. Il ne voit ni les apps que vous choisissez ni leur durée d’utilisation : ces informations restent gérées par Apple sur votre iPhone."
+    ],
+    [
+      "Mes apps ne sont pas bloquées.",
+      "Vérifiez que le mode concentration est activé sur l’accueil et que le budget contient des apps. Le temps est compté depuis l’activation ou la dernière réinitialisation, sans tenir compte de l’utilisation antérieure du jour. Ouvrez Slow Orbit pour relancer la surveillance si nécessaire. Sinon, désactivez puis réactivez le mode concentration."
+    ],
+    [
+      "Mes pompes ne sont pas comptées.",
+      "Posez l’iPhone debout au sol devant vous. Les épaules, coudes et mains doivent être visibles, pas nécessairement tout le corps. Une demi-pompe suffit. Sinon, allez dans Réglages → Test de pompes → ⚙︎ Réglages → ? Aide et ajustez le seuil minimal d’abaissement des épaules."
+    ],
+    [
+      "Mon image n’est pas reconnue.",
+      "Scannez-la sous un bon éclairage, bien droite et en remplissant le cadre. Les reflets et surfaces brillantes compliquent la reconnaissance. Vous pouvez reprendre une photo ou ajouter une autre image."
+    ],
+    [
+      "J’ai oublié mon mot de passe.",
+      "Le mot de passe protège les budgets pendant une session de concentration. Il ne peut pas être récupéré. Vous devez supprimer puis réinstaller l’app ; cela retire tous les blocages."
+    ],
+    [
+      "Comment désactiver complètement Slow Orbit ?",
+      "Désactivez le mode concentration sur l’accueil. Vous pouvez aussi aller dans Réglages iPhone → Temps d’écran → Apps avec accès à Temps d’écran et désactiver Slow Orbit, ou supprimer l’app."
+    ],
+    [
+      "Mes photos ou les images de la caméra sont-elles envoyées ?",
+      "Non. Elles sont traitées uniquement sur votre iPhone. Aucun compte, cloud, suivi ni publicité."
+    ],
+    [
+      "Comment obtenir les mises à jour ?",
+      "Les petites améliorations se chargent automatiquement au lancement. Vérifiez aussi Réglages → Mise à jour de l’app. Les mises à jour importantes passent par l’App Store."
+    ]
+  ],
+  "req": [
+    "iPhone avec iOS 17.4 ou ultérieur",
+    "Temps d’écran disponible (non bloqué par le partage familial)",
+    "Accès à la caméra pour les images et les pompes"
+  ]
+}

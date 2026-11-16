@@ -1,0 +1,53 @@
+{
+  "help": "Hilfe zu Slow Orbit",
+  "contact": "Kontakt",
+  "reply": "Wir antworten in der Regel innerhalb von 2 Werktagen. Hilfreich sind dein iPhone-Modell, die iOS-Version und – falls angezeigt – der Fehlercode (z. B. E_CAMERA_PERMISSION).",
+  "faq": "Häufige Fragen",
+  "requirements": "Systemvoraussetzungen",
+  "privacy": "Datenschutzerklärung",
+  "legal": "Impressum",
+  "language": "Sprache",
+  "qa": [
+    [
+      "Wie funktioniert Slow Orbit?",
+      "Du legst Zeitkonten an, z. B. 15 Minuten für soziale Medien oder 60 Minuten für Spiele. Ist die Zeit eines Kontos aufgebraucht, pausiert iOS nur dessen Apps. Neue Zeit bekommst du, indem du eines deiner Bilder scannst oder Liegestütze machst."
+    ],
+    [
+      "Slow Orbit fragt nach „Bildschirmzeit“ – warum?",
+      "Slow Orbit nutzt die Bildschirmzeit-Funktion von Apple, um Apps zu sperren. Nur so ist das zuverlässig möglich. Slow Orbit sieht dabei nicht, welche Apps du auswählst oder wie lange du sie nutzt – das bleibt bei Apple auf deinem iPhone."
+    ],
+    [
+      "Meine Apps werden nicht gesperrt.",
+      "Prüfe, ob der Fokus auf der Startseite eingeschaltet ist und das Zeitkonto Apps enthält. Die Zeit zählt ab dem Einschalten bzw. ab dem letzten Erneuern – frühere Nutzung am selben Tag zählt nicht mit. Öffne Slow Orbit einmal, damit die Überwachung bei Bedarf neu gestartet wird. Hilft das nicht: Fokus aus- und wieder einschalten."
+    ],
+    [
+      "Die Liegestütze werden nicht gezählt.",
+      "Stell das iPhone hochkant vor dir auf den Boden. Schultern, Ellbogen und Hände sollten im Bild sein – der ganze Körper nicht. Ein halber Liegestütz reicht. Zählt es trotzdem nicht: Einstellungen → Liegestütz-Test → ⚙︎ Einstellungen → ? Hilfe, dort „Schultern absenken min.“ anpassen."
+    ],
+    [
+      "Mein Bild wird nicht erkannt.",
+      "Scanne das Bild bei gutem Licht, möglichst gerade und formatfüllend. Glänzende Oberflächen und starke Spiegelungen erschweren die Erkennung. Du kannst ein Bild jederzeit neu aufnehmen oder ein weiteres hinzufügen."
+    ],
+    [
+      "Ich habe mein Passwort vergessen.",
+      "Das Passwort schützt die Zeitkonten, solange der Fokus läuft. Aus Sicherheitsgründen lässt es sich nicht wiederherstellen. Dann hilft nur, die App zu löschen und neu zu installieren – dabei werden alle Sperren aufgehoben."
+    ],
+    [
+      "Wie schalte ich Slow Orbit ganz ab?",
+      "Schalte den Fokus auf der Startseite aus. Alternativ: iPhone-Einstellungen → Bildschirmzeit → Apps mit Bildschirmzeit-Zugriff → Slow Orbit deaktivieren, oder die App löschen."
+    ],
+    [
+      "Werden meine Fotos oder Kamerabilder hochgeladen?",
+      "Nein. Bilder und das Kamerabild werden ausschließlich auf deinem iPhone verarbeitet. Es gibt kein Konto, keine Cloud, kein Tracking und keine Werbung."
+    ],
+    [
+      "Wie bekomme ich Updates?",
+      "Kleinere Verbesserungen lädt Slow Orbit automatisch beim Start. Unter Einstellungen → App-Update kannst du selbst prüfen. Größere Updates kommen über den App Store."
+    ]
+  ],
+  "req": [
+    "iPhone mit iOS 17.4 oder neuer",
+    "Bildschirmzeit muss verfügbar sein (nicht über eine Familienfreigabe gesperrt)",
+    "Für Bilder und Liegestütze: Kamerazugriff"
+  ]
+}

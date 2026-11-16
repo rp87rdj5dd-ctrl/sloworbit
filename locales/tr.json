@@ -1,0 +1,53 @@
+{
+  "help": "Slow Orbit Yardım",
+  "contact": "İletişim",
+  "reply": "Genellikle 2 iş günü içinde yanıt veririz. iPhone modelinizi, iOS sürümünü ve varsa hata kodunu (ör. E_CAMERA_PERMISSION) paylaşın.",
+  "faq": "Sık sorulan sorular",
+  "requirements": "Gereksinimler",
+  "privacy": "Gizlilik politikası",
+  "legal": "Yasal bilgiler",
+  "language": "Dil",
+  "qa": [
+    [
+      "Slow Orbit nasıl çalışır?",
+      "Sosyal medya için 15 dakika veya oyunlar için 60 dakika gibi süre hesapları oluşturursunuz. Süre bitince iOS yalnızca o hesaba bağlı uygulamaları duraklatır. Bir resmi tarayarak veya şınav çekerek yeni süre kazanırsınız."
+    ],
+    [
+      "Slow Orbit neden “Ekran Süresi” izni istiyor?",
+      "Slow Orbit, uygulamaları güvenilir şekilde kilitlemek için Apple Ekran Süresi özelliğini kullanır. Hangi uygulamaları seçtiğinizi veya ne kadar kullandığınızı göremez; bu bilgiler iPhone’unuzda Apple tarafından yönetilir."
+    ],
+    [
+      "Uygulamalarım kilitlenmiyor.",
+      "Ana ekranda odak modunun açık olduğunu ve süre hesabına uygulama eklendiğini kontrol edin. Süre, açılıştan veya son yenilemeden itibaren sayılır; gün içindeki önceki kullanım dahil edilmez. İzlemeyi yeniden başlatmak için Slow Orbit’i açın. Sorun sürerse odağı kapatıp yeniden açın."
+    ],
+    [
+      "Şınavlarım sayılmıyor.",
+      "iPhone’u önünüzde yere dik koyun. Omuz, dirsek ve elleriniz görünmeli; tüm vücudunuzun görünmesi gerekmez. Yarım şınav yeterlidir. Sayılmazsa Ayarlar → Şınav testi → ⚙︎ Ayarlar → ? Yardım bölümünden minimum omuz alçalmasını ayarlayın."
+    ],
+    [
+      "Resmim tanınmıyor.",
+      "İyi ışıkta, karşıdan ve kareyi dolduracak şekilde tarayın. Parlak yüzeyler ve yansımalar tanımayı zorlaştırır. Fotoğrafı yeniden çekebilir veya başka resim ekleyebilirsiniz."
+    ],
+    [
+      "Şifremi unuttum.",
+      "Şifre odak sırasında süre hesaplarını korur. Güvenlik nedeniyle kurtarılamaz. Uygulamayı silip yeniden yüklemeniz gerekir; böylece tüm kilitler kaldırılır."
+    ],
+    [
+      "Slow Orbit’i tamamen nasıl kapatırım?",
+      "Ana ekranda odağı kapatın. Alternatif olarak iPhone Ayarları → Ekran Süresi → Ekran Süresi erişimi olan uygulamalar bölümünde Slow Orbit’i kapatın veya uygulamayı silin."
+    ],
+    [
+      "Fotoğraflarım veya kamera görüntüleri yükleniyor mu?",
+      "Hayır. Yalnızca iPhone’unuzda işlenir. Hesap, bulut, takip veya reklam yoktur."
+    ],
+    [
+      "Güncellemeleri nasıl alırım?",
+      "Küçük iyileştirmeler açılışta otomatik yüklenir. Ayarlar → Uygulama güncellemesi bölümünden de kontrol edebilirsiniz. Büyük güncellemeler App Store üzerinden gelir."
+    ]
+  ],
+  "req": [
+    "iOS 17.4 veya üzeri iPhone",
+    "Ekran Süresi kullanılabilir olmalı (Aile Paylaşımı tarafından engellenmemeli)",
+    "Resim ve şınav için kamera erişimi"
+  ]
+}

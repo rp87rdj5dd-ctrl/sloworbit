@@ -1,0 +1,53 @@
+{
+  "help": "Hulp bij Slow Orbit",
+  "contact": "Contact",
+  "reply": "We antwoorden meestal binnen 2 werkdagen. Vermeld je iPhone-model, iOS-versie en eventuele foutcode (bijv. E_CAMERA_PERMISSION).",
+  "faq": "Veelgestelde vragen",
+  "requirements": "Systeemvereisten",
+  "privacy": "Privacyverklaring",
+  "legal": "Colofon",
+  "language": "Taal",
+  "qa": [
+    [
+      "Hoe werkt Slow Orbit?",
+      "Maak tijdpotjes, bijvoorbeeld 15 minuten voor sociale media of 60 voor games. Als een potje leeg is, pauzeert iOS alleen de gekoppelde apps. Verdien tijd terug door een afbeelding te scannen of push-ups te doen."
+    ],
+    [
+      "Waarom vraagt Slow Orbit om Schermtijd?",
+      "Slow Orbit gebruikt Schermtijd van Apple om apps betrouwbaar te blokkeren. Het kan niet zien welke apps je kiest of hoelang je ze gebruikt; Apple beheert die informatie op je iPhone."
+    ],
+    [
+      "Mijn apps worden niet geblokkeerd.",
+      "Controleer of focus op het startscherm aanstaat en apps aan het tijdpotje zijn toegevoegd. De tijd loopt vanaf inschakelen of de laatste vernieuwing; eerder gebruik die dag telt niet mee. Open Slow Orbit om de bewaking zo nodig opnieuw te starten. Zet anders focus uit en weer aan."
+    ],
+    [
+      "Mijn push-ups worden niet geteld.",
+      "Zet je iPhone rechtop op de vloer voor je. Schouders, ellebogen en handen moeten in beeld zijn, niet je hele lichaam. Een halve push-up telt. Werkt het niet: Instellingen → Push-uptest → ⚙︎ Instellingen → ? Help en pas de minimale schouderverlaging aan."
+    ],
+    [
+      "Mijn afbeelding wordt niet herkend.",
+      "Scan bij goed licht, recht van voren en beeldvullend. Glanzende oppervlakken en reflecties bemoeilijken herkenning. Je kunt opnieuw een foto maken of een andere toevoegen."
+    ],
+    [
+      "Ik ben mijn wachtwoord vergeten.",
+      "Het wachtwoord beschermt tijdpotjes tijdens focus. Om veiligheidsredenen kan het niet worden hersteld. Je moet de app verwijderen en opnieuw installeren; alle blokkades verdwijnen dan."
+    ],
+    [
+      "Hoe schakel ik Slow Orbit volledig uit?",
+      "Zet focus uit op het startscherm. Of ga naar iPhone-instellingen → Schermtijd → Apps met toegang tot Schermtijd en schakel Slow Orbit uit, of verwijder de app."
+    ],
+    [
+      "Worden mijn foto’s of camerabeelden geüpload?",
+      "Nee. Ze worden uitsluitend op je iPhone verwerkt. Geen account, cloud, tracking of advertenties."
+    ],
+    [
+      "Hoe krijg ik updates?",
+      "Kleine verbeteringen worden bij het starten automatisch geladen. Controleer ook Instellingen → App-update. Grote updates komen via de App Store."
+    ]
+  ],
+  "req": [
+    "iPhone met iOS 17.4 of nieuwer",
+    "Schermtijd beschikbaar (niet beperkt via Delen met gezin)",
+    "Cameratoegang voor afbeeldingen en push-ups"
+  ]
+}
